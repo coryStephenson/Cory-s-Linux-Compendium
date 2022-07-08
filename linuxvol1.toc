@@ -1,0 +1,49 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {subsection}{\numberline {1.1}What is \LaTeX {} ?}{1}
+\contentsline {subsection}{\numberline {1.2}\LaTeX {} on Athena}{1}
+\contentsline {chapter}{\numberline {2}Getting Started}{1}
+\contentsline {chapter}{\numberline {3}Creating your Document}{3}
+\contentsline {subsection}{\numberline {3.1}In the Beginning\ldots }{3}
+\contentsline {subsection}{\numberline {3.2}Title Page}{4}
+\contentsline {subsection}{\numberline {3.3}Body}{5}
+\contentsline {paragraph}{Special characters}{5}
+\contentsline {paragraph}{Quotation Marks}{6}
+\contentsline {paragraph}{Divisions}{6}
+\contentsline {paragraph}{Table of Contents}{7}
+\contentsline {subsection}{\numberline {3.4}Environments}{7}
+\contentsline {subsection}{\numberline {3.5}Ending the Document}{7}
+\contentsline {chapter}{\numberline {4}Processing your Document}{8}
+\contentsline {subsection}{\numberline {4.1}Running \LaTeX {} }{8}
+\contentsline {subsection}{\numberline {4.2}Previewing the Final Output}{8}
+\contentsline {subsection}{\numberline {4.3}Printing the File}{8}
+\contentsline {subsection}{\numberline {4.4}Producing PDFs and Web Pages}{9}
+\contentsline {subsubsection}{\numberline {4.4.1}pdflatex limitations and specifics}{9}
+\contentsline {subsubsection}{\numberline {4.4.2}Web documents from LaTeX source}{9}
+\contentsline {subsection}{\numberline {4.5}Landscape (or Sideways) Mode}{10}
+\contentsline {subsection}{\numberline {4.6}Using Both Sides of the Paper: Duplex and Tumble Modes}{10}
+\contentsline {chapter}{\numberline {5}Error Messages}{10}
+\contentsline {subsection}{\numberline {5.1}\LaTeX {} errors}{11}
+\contentsline {subsection}{\numberline {5.2}\TeX {} errors}{11}
+\contentsline {subsection}{\numberline {5.3}Warnings}{12}
+\contentsline {chapter}{\numberline {6}Other useful things to know about}{13}
+\contentsline {subsection}{\numberline {6.1}Margins}{13}
+\contentsline {subsection}{\numberline {6.2}Type Styles}{13}
+\contentsline {subsection}{\numberline {6.3}Type Sizes}{14}
+\contentsline {subsection}{\numberline {6.4}Footnotes}{14}
+\contentsline {subsection}{\numberline {6.5}Tables}{14}
+\contentsline {subsection}{\numberline {6.6}Lists}{15}
+\contentsline {section}{\numberline {7}Documents in Foreign Languages }{16}
+\contentsline {paragraph}{International characters}{16}
+\contentsline {section}{\numberline {8}Mathematical Text and other Special Symbols}{17}
+\contentsline {section}{\numberline {9}Pretty Pictures}{25}
+\contentsline {subsection}{\numberline {9.1}Including PostScript{} and PDF Files}{25}
+\contentsline {subsection}{\numberline {9.2}\LaTeX {} \texttt {picture} Environment}{26}
+\contentsline {section}{\numberline {10}Citations and References}{26}
+\contentsline {section}{\numberline {11}Setting Page Layout Parameters}{27}
+\contentsline {section}{\numberline {12}Where to Get More Information}{27}
+\contentsline {section}{\numberline {13}Converting from \LaTeX {} 2.09 to \LaTeXe }{29}
+\contentsline {paragraph}{Running Previous Versions of \LaTeX {} }{29}
+\contentsline {section}{\numberline {14}Acknowledgments}{30}
+\contentsline {section}{\numberline {15}List of Figures}{30}
+\contentsline {section}{\numberline {16}List of Tables}{30}
+
